@@ -9,7 +9,7 @@ description: 'A blog about programming, technology, and mathematics.'
 keywords: programming, technology, mathematics
 author: Kurisuki
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -102,3 +102,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+markdown:
+  plugins:
+    - "@traptitech/markdown-it-katex"

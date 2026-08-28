@@ -1,13 +1,13 @@
-```yaml
+---
 title: [CF2242F] Summer Vacation 胡乱写点
-date: 2026-08-24 21:00:08
+date: 2026-08-28 23:32:11
 sticky: 100
 categories:
   - 草稿
 tags:
   - 算法
   - 学习
-```
+---
 
 越来越浮躁而无所事事了，尝试静下心来输出一些 Human Hallucination。
 

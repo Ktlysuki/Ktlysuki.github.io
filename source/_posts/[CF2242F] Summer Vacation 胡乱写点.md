@@ -1,5 +1,5 @@
 ---
-title: [CF2242F] Summer Vacation 胡乱写点
+title: '[CF2242F] Summer Vacation 胡乱写点'
 date: 2026-08-28 23:32:11
 categories:
   - 草稿
